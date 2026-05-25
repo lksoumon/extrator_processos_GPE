@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Extrator de Processos GPE
 // @namespace    http://tampermonkey.net/
-// @version      v0.1
+// @version      v0.2
 // @description  try to take over the world!
 // @author       You
 // @require https://code.jquery.com/jquery-3.6.0.min.js
 // @match        http://sigeduca.seduc.mt.gov.br/grh/hwmgrhconsultaprocesso.aspx?*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gov.br
+// @updateURL    https://github.com/lksoumon/extrator_processos_GPE/raw/refs/heads/main/extrator_GPE_processos.user.js
+// @downloadURL  https://github.com/lksoumon/extrator_processos_GPE/raw/refs/heads/main/extrator_GPE_processos.user.js
 // @grant        none
 // ==/UserScript==
 
